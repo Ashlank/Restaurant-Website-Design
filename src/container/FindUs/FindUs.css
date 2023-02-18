@@ -1,0 +1,12 @@
+.app__wrapper_info-h1 {
+  margin-bottom: 3rem;
+}
+
+.app__wrapper-content_p {
+  color: var(--color-golden);
+  margin: 2rem 0;
+}
+
+.app__wrapper_info-button {
+  margin-top: 2rem;
+}

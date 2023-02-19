@@ -1,4 +1,4 @@
-Restaurant Website Design
+# Restaurant Website Design
 
 Inspired by [Javascript Mastery](https://www.youtube.com/@javascriptmastery)!
 
